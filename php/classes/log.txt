@@ -1,0 +1,12 @@
+[13-Feb-2016 15:37:43 UTC] Hello, errors!
+[13-Feb-2016 15:39:26 UTC] Hello, errors!
+[13-Feb-2016 15:41:40 UTC] Hello, errors!
+[13-Feb-2016 15:41:45 UTC] Hello, errors!
+[13-Feb-2016 15:41:45 UTC] 
+[13-Feb-2016 15:42:29 UTC] Hello, poo!
+[13-Feb-2016 15:42:34 UTC] Hello, poo!
+[13-Feb-2016 15:42:34 UTC] 1
+[13-Feb-2016 15:44:28 UTC] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\login\php\classes\Database.php on line 6
+[13-Feb-2016 15:44:28 UTC] Hello, sessopm!
+[13-Feb-2016 15:44:43 UTC] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\login\php\classes\Database.php on line 6
+[13-Feb-2016 15:44:43 UTC] Hello, sessopm!
